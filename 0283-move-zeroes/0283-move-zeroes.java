@@ -6,7 +6,7 @@ class Solution {
                 nums[count++]=nums[i];
             }
         }
-        while (count<nums.length){
+        while(count<nums.length){
             nums[count++]=0;
         }
     }
