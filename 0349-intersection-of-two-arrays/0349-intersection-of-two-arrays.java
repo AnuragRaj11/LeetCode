@@ -14,7 +14,6 @@ class Solution {
         int[] res=new int[ans.size()];
         for(int i=0;i<ans.size();i++){
             res[i]=ans.get(i);
-        }
-        return res;
+        } return res;
     }
 }
