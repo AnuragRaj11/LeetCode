@@ -5,9 +5,9 @@ class Solution {
         for(int s: sums) sumList.add(s);
         Collections.sort(sumList);
         recover(n,sumList,result);
-        return result.strem().mapToInt(i -> i).toArray();
+        return result.stream().mapToInt(i -> i).toArray();
     }
-    private void recoevr(int n,List<Integer> sums,List<Integer>result){
+    public void recover(int n,List<Integer> sums,List<Integer>result){
         if (n==0) return;
         Collections.sort(sums);
         int diff = sums.get(1)-sums.get(0);
@@ -15,10 +15,10 @@ class Solution {
         for(int num:sums){
             freq.put(num,freq.getOrDefault(num,0)+1);
         }
-        List<Integer> with = new ArrrayList<>();
+        List<Integer> with = new ArrayList<>();
         List<Integer> without = new ArrayList<>();
         for(int num:sums){
-            if (freq.get(nums)==0) continue;
+            if (freq.get(num)==0) continue;
             int paired = num+diff;
             if (freq.getOrDefault(paired,0)>0){
                 without.add(num);
