@@ -7,7 +7,7 @@ class Solution {
     }
     void fill(int[][] image,int r,int c,int oldc,int color){
         if(r<0||c<0||r>=image.length||c>=image[0].length) return;
-        if(image[r][c]!=olc) return;
+        if(image[r][c]!=oldc) return;
         image[r][c]=color;
         fill(image,r+1,c,oldc,color);
         fill(image,r-1,c,oldc,color);
