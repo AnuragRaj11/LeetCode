@@ -14,9 +14,9 @@ public class Solution {
         ListNode s=head,f=head;
         while(f!=null && f.next!=null){
             s=s.next;
-            f=next.next;
+            f=f.next.next;
             if(s==f) return true;
         }
-        return fasle;
+        return false;
     }
 }
