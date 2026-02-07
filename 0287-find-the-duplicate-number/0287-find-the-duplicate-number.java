@@ -1,12 +1,15 @@
 class Solution {
     public int findDuplicate(int[] nums) {
         Arrays.sort(nums);
-        int ans=0;
-        for(int i=1;i<nums.length;i++){
-            if(nums[i]==nums[i-1]){
-              ans=nums[i];
-            }            
+        int n=nums.length-1;
+        int s=1;
+        int x=0;
+        for(int i=0;i<n;i++){
+            if(nums[s]==nums[i]){
+                x=nums[s];
+            }
+            s++;
         }
-        return ans;
+        return x;
     }
 }
