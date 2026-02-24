@@ -1,4 +1,4 @@
-class Solution {
+   class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
      if(nums==null|| nums.length<3) return new ArrayList <>();
       Arrays.sort(nums);
@@ -18,5 +18,5 @@ class Solution {
             }
         }
         return new ArrayList<>(res);
-      }
     }
+}
