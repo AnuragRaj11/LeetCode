@@ -5,7 +5,7 @@ class Solution {
         if(cnt==0){
             cnd=nums[i];
         }
-        else if(cnd==nums[i]){
+        if(cnd==nums[i]){
             cnt++;
         }
         else{
