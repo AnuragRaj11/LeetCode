@@ -7,7 +7,7 @@ class Solution {
             String key=new String(c);
             mp.computeIfAbsent(key,k-> new ArrayList<>()).add(w);
         }
-       List<List<String>> ans=new ArrayList<>(mp.values());
+        List<List<String>> ans=new ArrayList<>(mp.values());
         return ans;
     }
 }
