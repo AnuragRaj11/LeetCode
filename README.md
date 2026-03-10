@@ -8,6 +8,7 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AnuragRaj11/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Hash Table
@@ -59,4 +60,12 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AnuragRaj11/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
