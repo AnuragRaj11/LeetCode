@@ -68,4 +68,8 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/AnuragRaj11/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
