@@ -42,6 +42,7 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AnuragRaj11/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AnuragRaj11/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,12 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AnuragRaj11/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AnuragRaj11/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/AnuragRaj11/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
