@@ -10,6 +10,7 @@ Leetcode Questions Codes
 | [0014-longest-common-prefix](https://github.com/AnuragRaj11/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Hash Table
@@ -88,6 +89,7 @@ Leetcode Questions Codes
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
