@@ -13,11 +13,13 @@ Leetcode Questions Codes
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AnuragRaj11/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AnuragRaj11/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +33,7 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AnuragRaj11/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
