@@ -8,6 +8,7 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/AnuragRaj11/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -53,6 +54,7 @@ Leetcode Questions Codes
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
