@@ -89,6 +89,7 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AnuragRaj11/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnuragRaj11/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,12 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnuragRaj11/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AnuragRaj11/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
