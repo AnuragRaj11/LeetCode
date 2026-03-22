@@ -20,6 +20,7 @@ Leetcode Questions Codes
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/AnuragRaj11/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnuragRaj11/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@ Leetcode Questions Codes
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/AnuragRaj11/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
