@@ -7,8 +7,7 @@ class Solution {
         if(i==0) row=true; 
         if(j==0) col=true;
         matrix[0][j]=0;
-        matrix[i][0]=0; 
-        }
+        matrix[i][0]=0;    }
 
         for(int i=1;i<matrix.length;i++)
         for(int j=1;j<matrix[0].length;j++)
