@@ -15,6 +15,7 @@ Leetcode Questions Codes
 | [0075-sort-colors](https://github.com/AnuragRaj11/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/AnuragRaj11/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnuragRaj11/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
@@ -63,6 +64,7 @@ Leetcode Questions Codes
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/AnuragRaj11/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/AnuragRaj11/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/AnuragRaj11/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
