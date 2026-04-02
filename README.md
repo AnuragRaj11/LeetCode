@@ -19,6 +19,7 @@ Leetcode Questions Codes
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuragRaj11/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnuragRaj11/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -27,6 +28,7 @@ Leetcode Questions Codes
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AnuragRaj11/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/AnuragRaj11/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AnuragRaj11/LeetCode/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Divide and Conquer
@@ -39,6 +41,7 @@ Leetcode Questions Codes
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/AnuragRaj11/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
