@@ -57,6 +57,7 @@ Leetcode Questions Codes
 | [0020-valid-parentheses](https://github.com/AnuragRaj11/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/AnuragRaj11/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0344-reverse-string/) | Easy |
