@@ -18,6 +18,7 @@ Leetcode Questions Codes
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuragRaj11/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0228-summary-ranges](https://github.com/AnuragRaj11/LeetCode/tree/main/0228-summary-ranges/) | Easy |
 | [0283-move-zeroes](https://github.com/AnuragRaj11/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
