@@ -111,11 +111,13 @@ Leetcode Questions Codes
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/AnuragRaj11/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AnuragRaj11/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnuragRaj11/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/AnuragRaj11/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/AnuragRaj11/LeetCode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ Leetcode Questions Codes
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/AnuragRaj11/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AnuragRaj11/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -146,4 +149,8 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnuragRaj11/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/AnuragRaj11/LeetCode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
