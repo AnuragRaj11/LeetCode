@@ -31,6 +31,7 @@ Leetcode Questions Codes
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AnuragRaj11/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/AnuragRaj11/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0290-word-pattern](https://github.com/AnuragRaj11/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnuragRaj11/LeetCode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/AnuragRaj11/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
@@ -61,6 +62,7 @@ Leetcode Questions Codes
 | [0058-length-of-last-word](https://github.com/AnuragRaj11/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0290-word-pattern](https://github.com/AnuragRaj11/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/AnuragRaj11/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/AnuragRaj11/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Stack
