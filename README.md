@@ -100,6 +100,7 @@ Leetcode Questions Codes
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/AnuragRaj11/LeetCode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0258-add-digits](https://github.com/AnuragRaj11/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [2729-check-if-the-number-is-fascinating](https://github.com/AnuragRaj11/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -155,4 +156,12 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/AnuragRaj11/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/AnuragRaj11/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/AnuragRaj11/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
