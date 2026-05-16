@@ -13,6 +13,7 @@ Leetcode Questions Codes
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnuragRaj11/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0048-rotate-image](https://github.com/AnuragRaj11/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/AnuragRaj11/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/AnuragRaj11/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AnuragRaj11/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/AnuragRaj11/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuragRaj11/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -94,6 +95,7 @@ Leetcode Questions Codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AnuragRaj11/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/AnuragRaj11/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/AnuragRaj11/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@ Leetcode Questions Codes
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/AnuragRaj11/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnuragRaj11/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
